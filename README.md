@@ -13,7 +13,7 @@ This repository contains comprehensive documentation of my **Oracle Database** a
 
 The project involved designing and implementing a university library management system using Oracle's enterprise database technology stack. This documentation encapsulates my entire internship journey, covering both theoretical knowledge and hands-on practical implementation.
 
-Another thing was documenting the soft skills & experience i gained
+Another thing was documenting the soft skills & experience I gained and dealing with IT HelpDesk throughout the development of this project (Going through 3 peak registration periods while staying sane & developing is alone a miracle) 
 
 > **⚠️ Note:** The original codebase and SQL scripts have been lost due to technical issues. This repository serves as a complete documentation reference of the implementation process, methodologies, and lessons learned.
 
@@ -31,6 +31,27 @@ The internship project focused on creating a complete Oracle database solution w
 
 ---
 
+---
+
+## 🎯 **Use Cases for This Documentation**
+
+This comprehensive documentation is valuable for:
+
+### **Students & Learners**
+- Understanding Oracle Database enterprise implementation
+- Learning APEX development methodologies
+- Studying real-world database design challenges
+- Preparing for Oracle certification paths
+
+### **Professionals**
+- Reference for Oracle database projects
+- Understanding multitenant architecture setup
+- APEX development best practices
+- Enterprise software configuration procedures
+
+---
+
+
 ## 📚 **What's Inside**
 
 ### **Complete Documentation**
@@ -43,14 +64,8 @@ The main documentation file [`OracleReport.md`](OracleReport.md) provides a comp
 - **Application Development** - Building CRUD operations with APEX
 - **Theory vs Practice** - Academic knowledge compared to real-world implementation
 - **Professional Skills Development** - Technical and soft skills gained
-
-### **Visual Documentation**
-The `media/` folder contains screenshots and diagrams illustrating:
-- Database architecture and ERD designs
-- Installation and configuration steps
-- APEX application interfaces
-- System setup and networking configuration
-
+- **Providing IT Support** - Tackling different problems & situations in my IT Helpdesk while development 
+  
 ---
 
 ## 🏗️ **Technology Stack Implemented**
@@ -77,6 +92,7 @@ The library management system was designed with the following core entities:
 The schema evolved from a simple normalized design to a more scalable role-based architecture to accommodate future expansion requirements.
 
 ---
+
 
 ## 🎓 **Learning Journey: Theory vs Practice**
 
@@ -123,33 +139,5 @@ oracle-library-db/
     ├── imageXX.png            # Installation screenshots
     └── ...                    # Visual Guides & Graphs, etc...
 ```
-
----
-
-## 🎯 **Use Cases for This Documentation**
-
-This comprehensive documentation is valuable for:
-
-### **Students & Learners**
-- Understanding Oracle Database enterprise implementation
-- Learning APEX development methodologies
-- Studying real-world database design challenges
-- Preparing for Oracle certification paths
-
-### **Professionals**
-- Reference for Oracle database projects
-- Understanding multitenant architecture setup
-- APEX development best practices
-- Enterprise software configuration procedures
-
----
-
-## 📜 **Acknowledgments**
-
-- **Al-Ain University ITC** - For providing the internship opportunity and project guidance
-- **Oracle Corporation** - For comprehensive documentation and enterprise tools
-- **Project Supervisors** - For technical guidance and professional mentorship
-
----
 
 *This documentation encapsulates my complete internship journey at Al-Ain University ITC, demonstrating the implementation of enterprise Oracle Database and APEX solutions for academic and professional reference.*
