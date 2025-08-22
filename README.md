@@ -15,7 +15,7 @@ The project involved designing and implementing a university library management 
 
 Another thing was documenting the soft skills & experience I gained and dealing with IT HelpDesk throughout the development of this project (Going through 3 peak registration periods while staying sane & developing is alone a miracle) 
 
-> **⚠️ Note:** The original codebase and SQL scripts have been lost due to technical issues. This repository serves as a complete documentation reference of the implementation process, methodologies, and lessons learned.
+> **⚠️ Note:** The original codebase and SQL scripts have been lost due to technical issues. This repository serves as a complete documentation reference of the implementation process, methodologies, and lessons learned. If you encounter any issues contact me on my LinkedIn https://www.linkedin.com/in/adel-alkhaldi/
 
 ---
 
